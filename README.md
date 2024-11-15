@@ -1,1 +1,1 @@
-# MY-PROJECTS
+# Rock Paper Scissor Game
